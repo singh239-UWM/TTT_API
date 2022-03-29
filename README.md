@@ -20,7 +20,9 @@ npm run dev
 
 ## Usage
 
-Borad and player can be sent to API using params
+Borad and player can be sent to this API using params
+
+The following code is being used in app.
 
 ```js
 const player = 'X'
