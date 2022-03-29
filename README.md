@@ -22,12 +22,6 @@ npm run dev
 
 Borad and player can be sent to API using params
 
- X |   |  
------------
-   | O | O 
------------
- X |   |   
-
 ```js
 const player = 'X'
 const board = "X---OOX--" //this will represent above board
